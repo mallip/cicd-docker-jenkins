@@ -1,0 +1,9 @@
+Django==1.11.26
+django-cors-headers==3.0.2
+djangorestframework==3.9.4
+dnspython==1.16.0
+mysql-connector-python==8.0.18
+mysqlclient==1.4.6
+protobuf==3.10.0
+PyMySQL==0.9.3
+pytz==2019.3
